@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Test repository from Henry's bootcamp module 2
+Proyecto de prueba sobre como crear un repositorio y clonarlo 
